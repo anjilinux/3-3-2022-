@@ -13,7 +13,31 @@ haii im changed the file
 
 
 
-
+      <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Update</permission>
+          <permission>hudson.model.Item.Release</permission>
+          <permission>hudson.model.Item.Create</permission>
+          <permission>hudson.model.Run.Delete</permission>
+          <permission>org.jfrog.hudson.ArtifactoryPlugin.Release</permission>
+          <permission>hudson.model.Item.Workspace</permission>
+          <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Delete</permission>
+          <permission>com.cloudbees.plugins.credentials.CredentialsProvider.ManageDomains</permission>
+          <permission>hudson.model.Run.Replay</permission>
+          <permission>hudson.model.Item.Configure</permission>
+          <permission>org.jenkins.plugins.lockableresources.LockableResourcesManager.View</permission>
+          <permission>hudson.model.Item.Cancel</permission>
+          <permission>hudson.model.Item.Delete</permission>
+          <permission>hudson.model.Item.Read</permission>
+          <permission>org.jfrog.hudson.ArtifactoryPlugin.Promote</permission>
+          <permission>com.cloudbees.plugins.credentials.CredentialsProvider.View</permission>
+          <permission>com.cloudbees.plugins.credentials.CredentialsProvider.Create</permission>
+          <permission>hudson.model.Item.Build</permission>
+          <permission>org.jenkins.plugins.lockableresources.LockableResourcesManager.Unlock</permission>
+          <permission>hudson.scm.SCM.Tag</permission>
+          <permission>hudson.model.Item.Move</permission>
+          <permission>org.jenkins.plugins.lockableresources.LockableResourcesManager.Reserve</permission>
+          <permission>hudson.model.Item.Discover</permission>
+          <permission>hudson.model.Run.Update</permission>
+        </permissions>
 
 
 Contact No:  9505782251
